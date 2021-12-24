@@ -1,4 +1,4 @@
-![alt text](1*cF3KCX4ymOf_zOp9fXvtXg.png)
+![alt text](https://web-automation.ru/wp-content/uploads/2018/03/1492534083_microsoft-azure.png)
 
 # Sample NodeJS application for Azure Pipelines docs
 
